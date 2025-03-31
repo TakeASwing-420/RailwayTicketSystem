@@ -61,8 +61,6 @@
                             <mainClass>com.example.RailwayTicketSystem</mainClass>
                         </manifest>
                     </archive>
-                    <finalName>railwayticketsystem</finalName> <!-- Updated final name -->
-                    <outputDirectory>${project.basedir}/final</outputDirectory>
                 </configuration>
                 <executions>
                     <execution>
